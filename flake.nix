@@ -284,6 +284,8 @@
           lenovo-yoga-7-14ARH7-nvidia = import ./lenovo/yoga/7/14ARH7/nvidia;
           lenovo-yoga-7-14IAH7-integrated = import ./lenovo/yoga/7/14IAH7/integrated;
           lenovo-yoga-7-14IAH7-hybrid = import ./lenovo/yoga/7/14IAH7/hybrid;
+          lenovo-yoga-7-14IMH9-integrated = import ./lenovo/yoga/7/14IMH9/integrated;
+          lenovo-yoga-7-14IMH9-hybrid = import ./lenovo/yoga/7/14IMH9/hybrid;
           lenovo-yoga-7-14ILL10 = import ./lenovo/yoga/7/14ILL10;
           lenovo-yoga-7-slim-gen8 = import ./lenovo/yoga/7/slim/gen8;
           letsnote-cf-lx4 = import ./panasonic/letsnote/cf-lx4;
