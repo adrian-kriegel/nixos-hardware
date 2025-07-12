@@ -35,5 +35,7 @@
 
     # Info: <https://download.nvidia.com/XFree86/Linux-x86_64/460.73.01/README/dynamicpowermanagement.html>
     powerManagement.enable = lib.mkDefault true;
+
+    open = lib.mkDefault true;
   };
 }
